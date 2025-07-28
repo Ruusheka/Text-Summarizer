@@ -21,7 +21,7 @@ A lightweight distilled version of BART fine-tuned on CNN/DailyMail dataset for 
 
 ## 🖼️ Demo
 
-![Demo](https://github.com/Ruusheka/Text_summarizer/blob/main/assets/demo.png?raw=true)
+![Demo](https://github.com/Ruusheka/Text_summarizer/blob/main/assets/demoPic.png?raw=true)
 
 ---
 
